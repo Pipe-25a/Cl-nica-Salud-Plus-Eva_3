@@ -1,6 +1,7 @@
 #Clínica Salud Plus — Agente de Atención al Paciente con IA
-
-# Clínica Salud Plus — Agente de Atención al Paciente con IA
+Integrantes:
+-Ignacio Naum F.
+-Felipe Pérez S.
 
 Agente conversacional de atención al paciente para una clínica ficticia, construido con **LangGraph** (arquitectura ReAct), **RAG** sobre **ChromaDB** y **memoria dual** (corto y largo plazo). Este repositorio corresponde a la **Evaluación Parcial N°3 (EP3)** — *Implementación de Observabilidad* — de la asignatura ISY0101, Ingeniería de Soluciones con IA.
 
