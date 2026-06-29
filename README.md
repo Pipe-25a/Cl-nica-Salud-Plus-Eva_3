@@ -1,5 +1,6 @@
 #Clínica Salud Plus — Agente de Atención al Paciente con IA
 Integrantes:
+
 -Ignacio Naum F.
 -Felipe Pérez S.
 
